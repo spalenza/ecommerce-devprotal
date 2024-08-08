@@ -47,7 +47,7 @@
     "compare_at_price": 15.59,
     "sku": "SKU-TSHIRT2",
     "categories": ["aparencia", "t-shirt", "novo", "logomarca"],
-    "inventory_quantity": 30,
+    "inventory_quantity": 20,
     "status": "published",
     "variants": [
       {
@@ -60,7 +60,7 @@
         "price": 12.59,
         "compare_at_price": 15.59,
         "sku": "SKU-TSHIRT2",
-        "inventory_quantity": 30
+        "inventory_quantity": 20
       }
     ]
   },
